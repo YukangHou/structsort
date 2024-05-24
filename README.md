@@ -15,4 +15,5 @@
 # ./struct-sort number_of_elements
 然后重复上述操作，得到线程数改变后的结果，根据输出的Time Taken计算加速比
 为了结果更加准确，每个线程数下执行两次，取平均值计算加速比
+
 ![image](https://github.com/YukangHou/structsort/assets/170058247/7f888ad9-89ca-4c58-814a-ddd89e1dc8ab)
